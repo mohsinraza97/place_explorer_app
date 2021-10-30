@@ -14,5 +14,5 @@ class AppConstants {
   // endregion
 
   static const default_location = LatLng(24.9275, 67.0641);
-  static const google_api_key = 'AIzaSyDaCMEKKnI9r8q1LV-tZvf9FyiOXFOkB18';
+  static const google_api_key = '';
 }
